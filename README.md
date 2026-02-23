@@ -2,9 +2,13 @@ Gen AI Internship Assignment 2
 Student Details
 
 Name: Ridham Mishra
+
 Course: Gen AI Internship
+
 College: BMS College of Engineering
+
 Age: 21
+
 Email: ridham123.mishra@gmail.com
 
 Challenges Faced
